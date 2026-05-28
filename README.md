@@ -27,7 +27,7 @@ WebSocket-команди: ws://<ESP32_IP>/ws
 ```
 
 > [!TIP]
-> Якщо потрібно швидко перевірити робота - запускайте `main.py`.
+> Якщо потрібно швидко перевірити робота - запускайте `main.py` або `KPI Robot Car.exe`.
 > Якщо потрібно подивитися найпростіший приклад власного GUI - відкривайте `simple_robot_demo.py`.
 
 ---
@@ -62,6 +62,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+АБО запустіть `KPI Robot Car.exe`
 
 У вікні програми:
 
